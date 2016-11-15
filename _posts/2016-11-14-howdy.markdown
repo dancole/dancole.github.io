@@ -1,8 +1,8 @@
 ---
 title:  "Howdy!"
 date:   2016-11-14 19:28:23
-categories: [jekyll]
-tags: [jekyll]
+categories: [thoughts]
+tags: [writing, thoughs]
 ---
 I wish I would have started writing down my thoughts long ago. Writing brought to us something that was only a fleeting memory before. Writing allows for deeper throughts. My writing may be random, infrequent, and riddled with spelling errors, but maybe it'll be helpful to me in the long run.
 
