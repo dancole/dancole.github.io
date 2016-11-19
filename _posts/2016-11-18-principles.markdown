@@ -1,6 +1,6 @@
 ---
 title:  "Creating on Principle"
-date:   2016-11-14 19:28:23
+date:   2016-11-18 20:11:00
 categories: [thoughts]
 tags: [thoughs]
 ---
