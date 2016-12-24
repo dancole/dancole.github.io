@@ -8,7 +8,7 @@ Time is like a river that will take you forward into encounters with reality tha
 
 The most important quality that differentiates successful people from unsuccessful people is our capacity to learn and adapt to these things.
 
-# How People's Thinking Abilities Differ
+## How People's Thinking Abilities Differ
 * Details to Big Picture
 * Learning to Thinking (Remembering what they were taught verses independent reasoning)
 * Tasks to Goals
@@ -17,7 +17,7 @@ The most important quality that differentiates successful people from unsuccessf
 * Risk-averse to Risk-taker
 * Introvert to Extrovert
 
-# Values
+## Values
 Reality + Dreams + Determination = A Successful Life
 
 What do you value most deeply?
@@ -28,7 +28,7 @@ What do you want out of life?
 
 Adopting pre-packaged values without much thought exposes you to the risk of inconsistency with your true values. It can make you a hypocrite where your claims of your belief differ from how you behave.
 
-# 1. Goals
+## 1. Goals
 Set Goals. Higher-level thinking, synthesis, visualization, prioritization.
 
 Your values determine what you want, i.e. your goals. Life is like a game where you seek to overcome the obstacles that stand in the way of achieving your goals. You get better at this game through practice. The game consists of a series of choices that have consequences. You have the freedom to make whatever choices you want, though it's best to be mindful of their consequences.
@@ -58,7 +58,7 @@ Don't confuse problems with causes.
 
 Once you identify your problems, you must not tolerate them.
 
-# 3. Diagnoses
+## 3. Diagnoses
 Diagnose the problems to root causes. Hyper-logical, willing to "touch the nerve", seeing multiple possiblities.
 
 You will be more effective if you focus on diagnosis and design rather than jumping to solutions. Diagnosing and design are what spark strategic thinking.
@@ -69,7 +69,7 @@ More than anything else, what differentiates people who live up to their potenti
 
 Pain + Reflection = Progress
 
-# 4. Design
+## 4. Design
 Design a plan for eliminating the problems. Visualization, practicality, creativity.
 
 Creating a design is like writing a movie script in that you visualize who will do what through time in order to achieve the goal.
@@ -78,12 +78,12 @@ Write down the plan. The plan connect your goals to the tasks. Don't loose sight
 
 Designing is very important because it determines what you will have to do to be effective. Don't become preoccupied with execution.
 
-# 5. Task
+## 5. Task
 Do what is set out in the plan. Self discipline, good work habits, results orientation, proactivity
 
 The importance of good work habits is vastly underrated. It is critical to know each fay what you need to do and have the descipline to do it. People with poor work habits almost almost randomly react to the stuff that comes at them and can't bring themselves to do the things they need to do but don't like to do.
 
-# Notes
+## Notes
 This process is iterative. If this process is working, each step with change much slower than the next. People who are having a hard time achieving their goals use this process backwards. They stick rigidly to specified taks, changing their plans, goals, and values, going from problem to problem without finding a solution. 
 
 Remember that you need to do each step independently from the other steps. 
@@ -92,7 +92,7 @@ The process goes better if you are as accurate as possible in all respects, incl
 
 While these steps require different abilities, you don't have to be good at all of them. This isn't school, you can have other people do the work for you. Seek help from others. This requires you to put your ego aside and objectively reflect on your strengths and weaknesses. Having a weakness is like missing a sense -- if you can't visualize what it is, it's hard to perceive not having it.
 
-# Principles
+## Principles
 * Trust in truth
 * Be extremely open
 * Have integrity and demand it from others. Never say anything about a person you wouldn't say to them directly.
@@ -106,5 +106,5 @@ While these steps require different abilities, you don't have to be good at all 
 * Look for people who have lots of great questions.
 
 
-# Reference
-Principles by Ray Dalio
+## Reference
+*Principles by Ray Dalio
