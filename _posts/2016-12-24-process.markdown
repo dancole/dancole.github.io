@@ -41,7 +41,7 @@ To acieve your goals you have to prioritize, and that includes rejecting good al
 
 It is important not to confuse goals and desires. Desires are typically first-order consequences. For example, a goal might be physical fitness, while a desire is the urge to eat good-tasting food. 
 
-# 2. Problems
+## 2. Problems
 Identify and don't tolerate problems. Perception, intolerance of badness (regardless of severity), synthesis
 
 The pain of problems is a call to find solutions rather than a reason for unhappiness and inaction. 
