@@ -1,8 +1,8 @@
 ---
 title:  "D3.js in Jekyll Markdown"
-date:   2016-11-14 19:28:23
-categories: [thoughts]
-tags: [writing, thoughs]
+date:   2017-01-02 15:00:00
+categories: [code]
+tags: [code, d3js]
 ---
  I've used d3 to target an element `<div id="example">` in this document:
 
