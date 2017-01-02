@@ -112,6 +112,7 @@ function iqr(k) {
 <div id="example"></div>
 
 Things to keep in mind:
+
 * Include morley.csv (Search local JavaScript for `/morley.csv`)
 * Include D3.js
 * Include box.js
